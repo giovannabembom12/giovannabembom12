@@ -2,9 +2,9 @@
 
 - 🔭 Estudante de Informática no IF.
 - 🌱 Estudando Java e React.
-- 👯 I’m looking to collaborate on ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👯 Army.
+- 😄
+>Mesmo que você viva por apenas um dia. Faça alguma coisa. Deixe sua fraqueza de lado. – _No More Dream_
 
 <div>
   <a href-"https://github.com/giovannabembom12">
