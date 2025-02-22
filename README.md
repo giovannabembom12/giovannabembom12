@@ -1,10 +1,11 @@
 ### Olá! Eu sou a Giovanna Bembom!😉
 
-- 🔭 Estudante de Informática no IF.
-- 🌱 Estudando Java e React.
-- 👯 Army.
-- 😄
->Mesmo que você viva por apenas um dia. Faça alguma coisa. Deixe sua fraqueza de lado. – _No More Dream_
+- 🎓 Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
+- 📚 Cursando Bacharelado em Sistemas de Informação na Escola Superior de Tecnologia da Universidade do Estado do Amazonas (UEA).
+- 🌱 Java, Python, JavaScript, PHP, C++, React & SQL.
+- 🎖️ Medalhista da OBMEP, OBR, OBA, Canguru, Matemática Sem Fronteiras, entre outras.
+- 👯😄.
+>Viver sem paixão é como estar morto. – _Jungkook_
 
 <div>
   <a href-"https://github.com/giovannabembom12">
