@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Giovanna Bembom!😉
 
 - 🎓 Técnica em Informática pelo Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
-- 📚 Cursando Bacharelado em Sistemas de Informação na Escola Superior de Tecnologia da Universidade do Estado do Amazonas (UEA).
+- 📚 Cursando Bacharelado em Ciência da Computação, no Instituto de Computação (IComp), da Universidade Federal do Amazonas (UFAM).
 - 🌱 Java, Python, JavaScript, PHP, C++, React & SQL.
 - 🎖️ Medalhista da OBMEP, OBR, OBA, Canguru, Matemática Sem Fronteiras, entre outras.
 - 👯😄.
