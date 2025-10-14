@@ -1,4 +1,4 @@
-<h1 align="left">Olá, meu nome é Giovanna Bembom! 😉</h1>
+<h1 align="left">Giovanna Bembom 😉</h1>
 
 ###
 
