@@ -36,18 +36,6 @@
 
 ###
 
-<h2 align="left">📶 Estatísticas do GitHub:</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannabembom12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=false&order=2" height="160" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=giovannabembom12&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=giovannabembom12&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="160" alt="streak graph"  />
-</div>
-
-###
-
 ## 🌐 Entre em contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannabembomdasilva@gmail.com)
