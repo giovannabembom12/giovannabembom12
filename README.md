@@ -8,7 +8,7 @@
 
 - 🎓 Técnica em Informática - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
 - 📚 Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM).
-- 🌱 Java, C, C#, Go, Python, JavaScript, PHP, C++, React & SQL.
+- 🌱 Java, C, C#, Go, Python, JavaScript, PHP, C++, React, SQL & Prolog.
 - 🎖️ Medalhista da OBMEP, OBR, OBA, Canguru, Matemática Sem Fronteiras, entre outras. 
 - 🎖️ Participante da 2ª fase da Maratona Feminina de Programação (2025).
 >Viver sem paixão é como estar morto. – _Jungkook_
@@ -17,31 +17,33 @@
 
 <h2 align="left">🧐 Experiência:</h2>
 
-### 
+<h3 align="left">💻 Linguagens</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,py,c,php,cs,go,prolog&theme=dark&perline=6" alt="Linguagens" />
+</div>
 
-<div style="display: inline_block"><br>
-  <img alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Ts" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="40" width="40"src="https://skillicons.dev/icons?i=py"  />
-  <img alt="C" height="40" width="40" src="https://skillicons.dev/icons?i=c"/>
-  <img alt="PHP" height="40" width="40" src="https://skillicons.dev/icons?i=php" />
-  <img alt="Csharp" height="40" width="40" src="https://skillicons.dev/icons?i=cs" />
-  <img alt="Android Studio" height="40" width="40" src="https://skillicons.dev/icons?i=androidstudio"  />
-  <img alt="VSCode" height="40" width="40" src="https://skillicons.dev/icons?i=vscode" />
-  <img alt="MySQL" height="40" width="40" src="https://skillicons.dev/icons?i=mysql" />
+<br>
+
+<h3 align="left">🛠️ Ferramentas</h3>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,mysql,postgres,git,github,figma&theme=dark&perline=7" alt="Ferramentas" />
+</div>
+
+###
+
+<h2 align="left">📊 Estatísticas:</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="Giovanna Stats"/> 
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannabembom12&theme=dracula" alt="Tecnologias"/>
 </div>
 
 ###
 
 ## 🌐 Entre em contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:giovannabembomdasilva@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanna-bembom-337a02250)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/giov.bs7)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/giovannabembom12)
-[![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/giovannabembom)
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-FF5555?style=for-the-badge&logo=gmail&logoColor=F8F8F2)](mailto:giovannabembomdasilva@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BD93F9?style=for-the-badge&logo=linkedin&logoColor=282A36)](https://www.linkedin.com/in/giovanna-bembom-337a02250)
+[![Instagram](https://img.shields.io/badge/Instagram-FF79C6?style=for-the-badge&logo=instagram&logoColor=282A36)](https://www.instagram.com/giov.bs7)
+[![GitHub](https://img.shields.io/badge/GitHub-282A36?style=for-the-badge&logo=github&logoColor=BD93F9)](https://github.com/giovannabembom12)
+[![Codeforces](https://img.shields.io/badge/Codeforces-8BE9FD?style=for-the-badge&logo=Codeforces&logoColor=282A36)](https://codeforces.com/profile/giovannabembom)
