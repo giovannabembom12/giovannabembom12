@@ -8,7 +8,7 @@
 
 - 🎓 Técnica em Informática - Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM).
 - 📚 Bacharelado em Ciência da Computação - Instituto de Computação (IComp), Universidade Federal do Amazonas (UFAM).
-- 🌱 Java, C, C#, Go, Python, JavaScript, PHP, C++, React, SQL & Prolog.
+- 🌱 Java, C, C#, Go, Python, JavaScript, PHP, C++, SQL & Prolog.
 - 🎖️ Medalhista da OBMEP, OBR, OBA, Canguru, Matemática Sem Fronteiras, entre outras. 
 - 🎖️ Participante da 2ª fase da Maratona Feminina de Programação (2025).
 >Viver sem paixão é como estar morto. – _Jungkook_
