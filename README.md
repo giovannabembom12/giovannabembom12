@@ -34,7 +34,7 @@
 <h2 align="left">📊 Estatísticas:</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="Giovanna Stats"/> 
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="Giovanna Bembom Stats"/> 
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannabembom12&theme=dracula" alt="Tecnologias"/>
 </div>
 
