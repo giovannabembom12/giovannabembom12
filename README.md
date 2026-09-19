@@ -10,38 +10,50 @@
 
 ---
 
-## 🙂 Sobre mim
+## 🙂 About me
 
-- 🎓 **Técnica em Informática** — Instituto Federal de Educação, Ciência e Tecnologia do Amazonas (IFAM)
-- 📚 **Bacharelado em Ciência da Computação** — Instituto de Computação (IComp / UFAM)
-- 🌱 **Linguagens & Tecnologias:** Java, C, C#, Go, Python, JavaScript, PHP, C++, SQL & Prolog
-- 🎖️ **Olimpíadas:** Medalhista da OBMEP, OBR, OBA, Canguru, Matemática Sem Fronteiras, entre outras
-- 🎖️ **Competição:** Participante da 2ª fase da Maratona Feminina de Programação (2025)
+- 🎓 **Information Technology Technician** — Federal Institute of Education, Science and Technology of Amazonas (IFAM)
+- 📚 **B.S. in Computer Science** — Institute of Computing (IComp / UFAM)
+- 🌱 **Languages & Technologies:** Java, C, C#, Go, Python, JavaScript, PHP, C++, SQL & Prolog
+- 🎖️ **Olympiads:** Medalist in OBMEP, OBR, OBA, Kangaroo Math, Mathematics Without Borders, among others
+- 🎖️ **Competitions:** 2nd Phase Participant in the Women's Programming Marathon (2025)
 
-> *"Viver sem paixão é como estar morto."* – Jeon Jungkook
-
----
-
-## 🧐 Tecnologias & Ferramentas
-
-**Linguagens & Frameworks**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,py,c,cpp,php,cs,go&theme=dark&perline=6" alt="Linguagens" />
-</p>
-
-**Ferramentas & Banco de Dados**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,mysql,postgres,git,github,figma&theme=dark&perline=7" alt="Ferramentas" />
-</p>
+> *"Living without passion is like being dead."* – Jeon Jungkook
 
 ---
 
-## 📊 Estatísticas
+## 🧐 Technologies & Tools
+
+**Languages & Frameworks**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,java,react,html,css,py,c,cpp,php,cs,go&theme=dark&perline=6" alt="Languages" />
+</p>
+
+**Tools & Databases**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,mysql,postgres,git,github,figma&theme=dark&perline=7" alt="Tools" />
+</p>
+
+---
+
+## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="Estatísticas Gerais" />       <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannabembom12&theme=dracula&hide_border=true" alt="Sequência de Commits" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannabembom12&theme=dracula&hide_border=true" alt="Commit Streak" />
+</div>
+
+<div align="center">
+    <tr>
+      <td width="50%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="giovannabembom's GitHub Stats"/>
+      </td>
+         <td width="2%"></td>
+      <td width="50%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannabembom12&theme=dracula" alt="Technologies"/>
+      </td>
+    </tr>
 </div>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Frase Dev" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </p>
