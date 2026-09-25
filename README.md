@@ -39,21 +39,9 @@
 ## 📊 Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannabembom12&theme=dracula&hide_border=true" alt="Commit Streak" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giovannabembom12&theme=dracula" alt="Commit Streak" />
 </div>
 
 <div align="center">
-    <tr>
-      <td width="50%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=giovannabembom12&theme=dracula" alt="giovannabembom's GitHub Stats"/>
-      </td>
-         <td width="2%"></td>
-      <td width="50%" align="center">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=giovannabembom12&theme=dracula" alt="Technologies"/>
-      </td>
-    </tr>
+        <img width='41%' height=195px src='https://github-readme-stats-fast.vercel.app/api/top-langs/?username=giovannabembom12&layout=compact&theme=dracula'>
 </div>
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</p>
